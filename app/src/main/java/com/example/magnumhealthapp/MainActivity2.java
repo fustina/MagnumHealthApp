@@ -30,6 +30,7 @@ public class MainActivity2 extends AppCompatActivity {
                     public void onClick(View view) {
                         validate(Name.getText().toString(),Password.getText().toString());
 
+
                     }
                 });
 
